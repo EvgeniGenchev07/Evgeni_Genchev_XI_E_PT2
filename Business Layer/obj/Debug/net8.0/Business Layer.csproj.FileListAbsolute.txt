@@ -1,0 +1,11 @@
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/bin/Debug/net8.0/Business Layer.deps.json
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/bin/Debug/net8.0/Business Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/bin/Debug/net8.0/Business Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.AssemblyInfoInputs.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.AssemblyInfo.cs
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.csproj.CoreCompileInputs.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/refint/Business Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/Business Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Business Layer/obj/Debug/net8.0/ref/Business Layer.dll

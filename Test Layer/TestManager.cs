@@ -7,11 +7,13 @@ namespace Test_Layer;
 [TestFixture]
 public class TestManager
 {
-    internal static LibraryDbContext dbContext;
+    internal static GameCompanyDbContext dbContext;
 
     static TestManager()
     {
-        dbContext = new LibraryDbContext(options=>options.UseInMemoryDatabase("inMemoryDb"));
+        DbContextOptionsBuilder builder = new DbContextOptionsBuilder();
+        builder.UseInMemoryDatabase("inMemoryDb");
+        dbContext = new GameCompanyDbContext(builder.Options);
     }
 
     [OneTimeTearDown]

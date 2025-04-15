@@ -1,0 +1,17 @@
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Data Layer.deps.json
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Data Layer.runtimeconfig.json
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Data Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Data Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Business Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/bin/Debug/net8.0/Business Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.csproj.AssemblyReference.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.AssemblyInfoInputs.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.AssemblyInfo.cs
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.csproj.CoreCompileInputs.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.csproj.CopyComplete
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/refint/Data Layer.dll
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/Data Layer.genruntimeconfig.cache
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Data Layer/obj/Debug/net8.0/ref/Data Layer.dll
