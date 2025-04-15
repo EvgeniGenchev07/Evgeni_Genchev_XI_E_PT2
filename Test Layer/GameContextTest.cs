@@ -25,12 +25,12 @@ public class GameContextTest
 	[Test]
 	public void ReadGame()
 	{
-		Game newGame = new Game("novel");
+		Game newGame = new Game("Fortnite");
 		gameContext.Create(newGame);
 
 		Game genre = gameContext.Read(newGame.Id);
 
-		Assert.That(genre.Name == "novel", "Read() does not get Game by id!");
+		Assert.That(genre.Name == "Fortnite", "Read() does not get Game by id!");
 	}
 
 	[Test]
@@ -46,7 +46,7 @@ public class GameContextTest
 	[Test]
 	public void UpdateGame()
 	{
-		Game newGame = new Game("novel");
+		Game newGame = new Game("Fortnite");
 		gameContext.Create(newGame);
 
 		Game lastGame = gameContext.ReadAll().Last();

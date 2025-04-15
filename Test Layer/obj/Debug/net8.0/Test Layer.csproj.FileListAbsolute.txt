@@ -140,3 +140,4 @@
 /home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Test Layer/bin/Debug/net8.0/Data Layer.dll
 /home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Test Layer/bin/Debug/net8.0/Business Layer.pdb
 /home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Test Layer/bin/Debug/net8.0/Data Layer.pdb
+/home/evgeni/RiderProjects/Evgeni_Genchev_XI_E_PT2/Test Layer/obj/Debug/net8.0/Test Layer.sourcelink.json
